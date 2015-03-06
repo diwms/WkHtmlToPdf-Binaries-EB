@@ -1,0 +1,19 @@
+{
+    "name": "diwms/wkhtmltopdf-binaries-eb",
+    "description": "Convert html to pdf",
+    "keywords": ["pdf", "wkhtmltopdf", "binary"],
+    "license": "MIT",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "Myroslav Zozulia",
+            "email": "diwms@yandex.ua"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf"
+    ],
+    "require": {
+    }
+}
