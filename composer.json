@@ -1,5 +1,5 @@
 {
-    "name": "diwms/wkhtmltopdf-binaries-eb",
+    "name": "viovendi/wkhtmltopdf-binaries-eb",
     "description": "Convert html to pdf",
     "keywords": ["pdf", "wkhtmltopdf", "binary"],
     "license": "MIT",
